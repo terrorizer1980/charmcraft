@@ -25,3 +25,4 @@ six==1.15.0
 tabulate==0.8.9
 typing-extensions==3.7.4.3
 urllib3==1.26.5
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
