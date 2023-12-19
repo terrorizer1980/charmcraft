@@ -24,7 +24,7 @@ protobuf==3.15.8
 py==1.10.0
 pycodestyle==2.7.0
 pycparser==2.20
-pydantic==1.8.2
+pydantic==1.10.13
 pydocstyle==6.0.0
 pyflakes==2.3.1
 pymacaroons==0.13.0
@@ -46,3 +46,4 @@ tabulate==0.8.9
 toml==0.10.2
 typing-extensions==3.7.4.3
 urllib3==1.26.5
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
