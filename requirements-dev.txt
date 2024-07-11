@@ -46,3 +46,4 @@ tabulate==0.8.9
 toml==0.10.2
 typing-extensions==3.7.4.3
 urllib3==1.26.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
