@@ -20,7 +20,7 @@ ops==1.2.0
 packaging==20.9
 pathspec==0.8.1
 pluggy==0.13.1
-protobuf==3.15.8
+protobuf==4.25.8
 py==1.10.0
 pycodestyle==2.7.0
 pycparser==2.20
@@ -45,4 +45,4 @@ snowballstemmer==2.1.0
 tabulate==0.8.9
 toml==0.10.2
 typing-extensions==3.7.4.3
-urllib3==1.26.5
+urllib3==2.5.0
